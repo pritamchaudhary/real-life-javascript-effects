@@ -1,3 +1,4 @@
+5 Real life javascript effects:-
 Add Friend Features
 ![Screenshot 2024-10-17 164357](https://github.com/user-attachments/assets/3de5feed-4bbb-4ac4-99bb-dca8862e05b7)
 Custom Cursor
